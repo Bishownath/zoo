@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Test suite" tests="10" assertions="10" failures="0" errors="0" time="0.003388">
+    <testsuite name="ContactTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\ContactTest.php" tests="5" assertions="5" failures="0" errors="0" time="0.002653">
+      <testcase name="testEmptyFirstName" class="ContactTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\ContactTest.php" line="6" assertions="1" time="0.002065"/>
+      <testcase name="testEmptyLastName" class="ContactTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\ContactTest.php" line="20" assertions="1" time="0.000152"/>
+      <testcase name="testEmptyPhone" class="ContactTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\ContactTest.php" line="34" assertions="1" time="0.000146"/>
+      <testcase name="testEmptyAddress" class="ContactTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\ContactTest.php" line="48" assertions="1" time="0.000145"/>
+      <testcase name="testEmptyEmail" class="ContactTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\ContactTest.php" line="62" assertions="1" time="0.000145"/>
+    </testsuite>
+    <testsuite name="EventTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\EventTest.php" tests="5" assertions="5" failures="0" errors="0" time="0.000735">
+      <testcase name="testEmptyTitle" class="EventTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\EventTest.php" line="6" assertions="1" time="0.000155"/>
+      <testcase name="testEmptyDescription" class="EventTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\EventTest.php" line="20" assertions="1" time="0.000147"/>
+      <testcase name="testEmptyDuration" class="EventTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\EventTest.php" line="34" assertions="1" time="0.000144"/>
+      <testcase name="testEmptyDates" class="EventTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\EventTest.php" line="48" assertions="1" time="0.000144"/>
+      <testcase name="testEmptyImage" class="EventTest" file="C:\xampp\htdocs\soobashSE\soobashSE\tests\EventTest.php" line="62" assertions="1" time="0.000145"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
